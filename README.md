@@ -3,6 +3,7 @@
 cloud evangelist
 
 ![komarev](https://komarev.com/ghpvc/?username=andreasaugustin&label=Profile%20views&color=0e75b6&style=flat")
+[![wakatime](https://wakatime.com/badge/user/98936726-8e1d-44f7-aece-0f19ce0f1591.svg)](https://wakatime.com/@98936726-8e1d-44f7-aece-0f19ce0f1591)
 
 ## Github
 
@@ -12,8 +13,6 @@ cloud evangelist
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreasaugustin&repo=actions-template-sync)](https://github.com/andreasaugustin/actions-templates-sync)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasaugustin&langs_count=10&layout=compact)](https://github.com/andreasaugustin)
-
-[![andreas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreasaugustin)](https://wakatime.com/@AndreasAugustin)
 
 - 👨‍💻 All of my public projects are available at [https://github.com/AndreasAugustin](https://github.com/AndreasAugustin)
 
