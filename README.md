@@ -10,7 +10,7 @@ cloud evangelist
 [![trophy](https://github-profile-trophy.vercel.app/?username=andreasaugustin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasaugustin&theme=dark&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreasaugustin&repo=actions-template-sync)](https://github.com/andreasaugustin/actions-templates-sync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreasaugustin&repo=actions-template-sync)](https://github.com/AndreasAugustin/actions-template-sync)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasaugustin&langs_count=10&layout=compact)](https://github.com/andreasaugustin)
 
