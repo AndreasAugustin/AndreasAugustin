@@ -11,6 +11,8 @@ cloud evangelist
 ![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasaugustin&theme=dark&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreasaugustin&repo=actions-template-sync)](https://github.com/AndreasAugustin/actions-template-sync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreasaugustin&repo=teaching)](https://github.com/AndreasAugustin/teaching)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasaugustin&langs_count=10&layout=compact)](https://github.com/andreasaugustin)
 
